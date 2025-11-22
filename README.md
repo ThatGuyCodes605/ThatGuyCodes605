@@ -5,5 +5,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge nerd :D
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thatguycodes605&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatguycodes605&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thatguycodes605&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) ![GitHub Stats](https://streak-stats.demolab.com?user=thatguycodes605&theme=tokyonight&hide_border=true)
 
