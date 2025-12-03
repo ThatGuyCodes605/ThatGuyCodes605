@@ -5,3 +5,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge nerd :D
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thatguycodes605&theme=github_dark) 
