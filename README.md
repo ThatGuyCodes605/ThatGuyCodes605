@@ -5,4 +5,3 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge nerd :D
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatGuyCodes605&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
