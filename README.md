@@ -6,3 +6,5 @@
 - ⚡ Fun fact: I'm a huge nerd :D
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thatguycodes605?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thatguycodes605&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
